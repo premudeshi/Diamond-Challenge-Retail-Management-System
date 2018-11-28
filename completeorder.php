@@ -58,8 +58,8 @@ if ($result->num_rows > 0) {
         }
        
         $bodytext = "Hello There! Mama Massai has ordered " . $quantity ." ". $namz. ".Please take immidiate action!";
-        $sid = "ACd186357b5afd86f3cfd7629a6a697019"; // Your Account SID from www.twilio.com/console
-        $token = "9bcf3e36070d40573d87059c078b9448"; // Your Auth Token from www.twilio.com/console
+        $sid = "XXX"; // Your Account SID from www.twilio.com/console
+        $token = "YYY"; // Your Auth Token from www.twilio.com/console
 
         $client = new Twilio\Rest\Client($sid, $token);
         $message = $client->messages->create($number, // Text this number
