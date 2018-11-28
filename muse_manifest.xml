@@ -1,0 +1,39 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="etribe.com" resolutions="1x" timestamp="1542630949741">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4276979596" ref="products:consumer-orders:index:accounts:producer-orders:events:order-info"/>
+    <file name="products.css" crc="187089625" ref="products"/>
+    <file name="consumer-orders.css" crc="244484862" ref="consumer-orders"/>
+    <file name="index.css" crc="12480949" ref="index"/>
+    <file name="accounts.css" crc="4064894266" ref="accounts"/>
+    <file name="producer-orders.css" crc="4064894266" ref="producer-orders"/>
+    <file name="events.css" crc="4064894266" ref="events"/>
+    <file name="order-info.css" crc="4192774797" ref="order-info"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:products:accounts:events:consumer-orders:producer-orders:order-info"/>
+    <file name="museutils.js" crc="3803043152" ref="index:products:accounts:events:consumer-orders:producer-orders:order-info"/>
+    <file name="whatinput.js" crc="86476730" ref="index:products:accounts:events:consumer-orders:producer-orders:order-info"/>
+    <file name="museconfig.js" crc="380897831" ref="index:products:accounts:events:consumer-orders:producer-orders:order-info"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:products:accounts:events:consumer-orders:producer-orders:order-info"/>
+    <file name="require.js" crc="4157109226" ref="index:products:accounts:events:consumer-orders:producer-orders:order-info"/>
+  </folder>
+  <folder name="images">
+    <file name="e-tribeblack.png" crc="4239119762" seo="true" ref="index:products:accounts:events:consumer-orders:producer-orders:order-info">
+      <caption webpage="producer-orders" alt=""/>
+      <caption webpage="products" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="accounts" alt=""/>
+      <caption webpage="consumer-orders" alt=""/>
+      <caption webpage="order-info" alt=""/>
+      <caption webpage="events" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="355521713" seo="true" mt="1542628858801" redirect="true"/>
+  <file name="products.html" crc="102795144" seo="true" mt="1542629285865" redirect="true"/>
+  <file name="accounts.html" crc="508406916" seo="true" mt="1542628858801" redirect="true"/>
+  <file name="events.html" crc="146909737" seo="true" mt="1542628858801" redirect="true"/>
+  <file name="consumer-orders.html" crc="3918931866" seo="true" mt="1542629255576" redirect="true"/>
+  <file name="producer-orders.html" crc="532123603" seo="true" mt="1542628858801" redirect="true"/>
+  <file name="order-info.html" crc="4205730203" seo="true" mt="1542630940282" redirect="true"/>
+</manifest>

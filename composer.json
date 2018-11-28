@@ -1,0 +1,8 @@
+{
+    "require": {
+        "google/apiclient": "^2.0",
+        "twilio/sdk": "^5.25",
+        "phpmailer/phpmailer": "^6.0",
+        "rych/random": "^0.1.0"
+    }
+}
